@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i&display=swap);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'source sans pro', sans-serif;
+	font size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: 'Playfair display', serif;
+	font-weight: bold;
+}
+
+a{text-decoration: none;}
